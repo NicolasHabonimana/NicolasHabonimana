@@ -1,4 +1,4 @@
-### Hi, I'm Nicolas 👋
+### Hi, I'm Nicolas 
 
 Computer science student at **Minnesota State University, Mankato** (graduating May 2028), originally from Burundi. I like building things people actually use: websites for small businesses and nonprofits, a 3D game in Unity, and right now the software/hardware integration for a client capstone project.
 
